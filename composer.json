@@ -1,0 +1,11 @@
+{
+    "name": "agl7r/strava",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andrey Gladyshev",
+            "email": "andrey@gladyshev.me"
+        }
+    ],
+    "require": {}
+}
