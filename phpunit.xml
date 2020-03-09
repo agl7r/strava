@@ -1,0 +1,11 @@
+<phpunit
+        colors="true"
+        cacheResult="false"
+        stopOnError="true"
+        stopOnFailure="true">
+    <testsuites>
+        <testsuite name="all">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
